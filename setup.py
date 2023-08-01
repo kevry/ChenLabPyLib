@@ -7,5 +7,6 @@ setup(
 	url='https://github.com/kevry/ChenLabPyLib',
 	author='Kevin Delgado', 
 	author_email='common.chenlab@gmail.com',
-	packages=find_packages()
+	packages=find_packages(),
+    requires=['requests']
 )
