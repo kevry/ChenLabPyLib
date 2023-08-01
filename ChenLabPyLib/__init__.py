@@ -1,2 +1,2 @@
-from .chenlabpaths import convert_path
-__version__ = "0.1"
+from .utils import chenlab_filepaths
+from .utils import send_slack_notification
