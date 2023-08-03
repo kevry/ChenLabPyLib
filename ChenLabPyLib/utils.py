@@ -49,11 +49,14 @@ def send_slack_notification(message: str, channel: str ="#e_pipeline_log",
 
     :return: None
     """
+
+    # update path based on OS
+    slack_url_path = chenlab_filepaths(path = slack_url_path)
     
     if not os.path.exists(slack_url_path): # check if file exists
         raise ValueError("{} does not exist.".format(slack_url_path))
     
-    with open(chenlab_filepaths(path = slack_url_path)) as f:
+    with open(slack_url_path) as f:
         url = f.readline()
         
     payload = {}
