@@ -1,5 +1,5 @@
 # ChenLabPyLib
 
-Python library for the Lab of Jerry Chen at Boston University
+Python library for the Chen Lab at Boston University
 
 ``pip install git+https://github.com/kevry/ChenLabPyLib.git#egg=ChenLabPyLib``
