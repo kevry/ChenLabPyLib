@@ -2,7 +2,7 @@
 
 ![example workflow](https://github.com/kevry/ChenLabPyLib/actions/workflows/python-package.yml/badge.svg)
 
-Python library for the Chen Lab at Boston University
+Python library for the Chen Lab
 
 ## How to install
 
