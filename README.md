@@ -6,4 +6,4 @@ Python library for the Chen Lab
 
 ## How to install
 
-``pip install git+https://github.com/kevry/ChenLabPyLib.git#egg=ChenLabPyLib``
+``pip install git+https://github.com/kevry/chenlabpylib.git#egg=chenlabpylib``
