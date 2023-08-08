@@ -1,4 +1,4 @@
-# ChenLabPyLib
+# chenlabpylib
 
 ![example workflow](https://github.com/kevry/ChenLabPyLib/actions/workflows/python-package.yml/badge.svg)
 
